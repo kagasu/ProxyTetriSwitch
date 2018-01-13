@@ -9,10 +9,4 @@
     <PackageReference Include="FiddlerCore" Version="1.0.0-beta" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="html\index.html">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
 </Project>
