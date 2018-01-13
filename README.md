@@ -1,6 +1,5 @@
 # ProxyTetriSwitch
 Http proxy server for Nintendo Switch
-![](https://i.imgur.com/YJd0zVa.png)
 
 ### ProxyTetriSwitch(for video)
 https://github.com/kagasu/ProxyTetriSwitch/tree/video-player
